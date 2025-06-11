@@ -1,0 +1,14 @@
+[
+  {
+    "title": "DesignBetter FrontEnd",
+    "imageSrc": "projects/1.png",
+    "description": "Este repositorio contiene el FontEnd de una herramienta web para diseño y confección de ropa.",
+    "source": "https://github.com/Ultimate-Truth-Seeker/DesignBetterFrontend"
+  },
+  {
+    "title": "DesignBetter BackEnd",
+    "imageSrc": "projects/2.png",
+    "description": "Este repositorio contiene el BackEnd de una herramienta web para diseño y confección de ropa.",
+    "source": "https://github.com/Ultimate-Truth-Seeker/DesignBetterBackend"
+  }
+]

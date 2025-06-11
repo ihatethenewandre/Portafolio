@@ -1,0 +1,18 @@
+[
+  {
+    "role": "Colegio Salesiano Don Bosco",
+    "organisation": "",
+    "startDate": "2018",
+    "endDate": "2022",
+    "experiences": ["Educación Secundaria"],
+    "imageSrc": "history/donbosco.png"
+  },
+  {
+    "role": "Universidad del Valle de Guatemala",
+    "organisation": "",
+    "startDate": "2023",
+    "endDate": "Actualidad",
+    "experiences": ["Educación Universitaria"],
+    "imageSrc": "history/uvg.png"
+  }
+]
